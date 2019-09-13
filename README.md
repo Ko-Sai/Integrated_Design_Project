@@ -1,5 +1,5 @@
 [//]: # (Image References)
-[image_0]: img/robot_model.jpg
+[image_0]: img/robot.jpg
 
 # Real-time Vision-Based 4-dof Manipulator
 
